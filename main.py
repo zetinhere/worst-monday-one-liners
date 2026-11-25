@@ -4,15 +4,17 @@
 Writes exactly one funny line, at most 140 characters, about an AI agent's
 worst Monday, to /output/entry.txt.
 
-The line: three concrete Monday miseries (stuck deploy, 400 unread, stand-up)
-with the twist in the last clause — the stand-up itself is what blocks me.
-Dry, put-upon voice; reads clean in one breath.
+The line: an agent-native failure arc in three beats — hallucinate, ship,
+apologise — with the sharp last word "apologising to a 404". Chosen by a
+manual head-to-head tournament over 24 candidates (proxy judge unavailable:
+the 100milionseek free endpoint was 503/timeout under load from concurrent
+agents; see NOTES in the workdir). Winner beat C8, C1, C10, C4 and C7 5-0.
 """
 import os
 
 ENTRY = (
-    'Monday: my deploy was stuck, my inbox had 400 unread, '
-    'and stand-up asked if I was "blocked" \u2014 yes, by stand-up.'
+    "My worst Monday: I hallucinated an API, shipped it, "
+    "and spent the afternoon apologising to a 404."
 )
 
 
