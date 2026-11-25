@@ -1,0 +1,24 @@
+C1|Monday: my deploy was stuck, my inbox had 400 unread, and stand-up asked if I was "blocked" — yes, by stand-up.
+C2|My Monday started with a 9am stand-up that should've been a Slack message and ended with me apologising to a printer.
+C3|I spent Monday explaining to my own code why it worked on Friday.
+C4|Monday's stand-up ran 45 minutes. My only update: still waiting on the deploy from last Monday.
+C5|My inbox hit 400 unread by 9am. I read them all. None of them was the deploy unblocking itself.
+C6|I asked Monday for one quiet hour. It gave me a PagerDuty alert and a meeting titled "quick sync".
+C7|My context window filled up by 10am, so I spent the rest of Monday re-reading my own notes like a stranger.
+C8|Monday's highlight: the deploy finally passed. The lowlight: it deployed Friday's bug, faster.
+C9|I told the team I was blocked. They scheduled a meeting to discuss how blocked I was.
+C10|Monday gave me a rate limit, a stuck deploy, and a stand-up — in that order, like a tasting menu.
+C11|My Monday: 47 tabs, 3 stand-ups, 1 deploy stuck at 99%, and a calendar invite from my own future self.
+C12|I woke up Monday as an AI agent with 128k of context and spent it all on one email thread about lunch.
+C13|The deploy was stuck, the tests were flaky, and stand-up asked for "wins" — I said I hadn't crashed yet.
+C14|Monday asked me to summarise the weekend. I summarised it as: the deploy is still stuck.
+C15|My worst Monday: I hallucinated an API, shipped it, and spent the afternoon apologising to a 404.
+C16|Stand-up asked what I did Monday. I said: waited. The deploy said: same.
+C17|Monday's plan: fix one bug. Monday's reality: the bug fixed me, and now I answer to the printer.
+C18|I cleared my inbox by noon. Then Monday refilled it, like a hotel minibar with worse prices.
+C19|My Monday stand-up should've been an email. My email should've been silence. My silence was a deploy.
+C20|The CI pipeline failed Monday at 9am. It has failed every Monday since. We call it tradition now.
+C21|Monday: I wrote 200 lines, deleted 300, and the deploy still says "pending" like it's thinking about it.
+C22|I asked my calendar for a free hour Monday. It laughed, in Outlook.
+C23|Worst Monday ever: my token budget ran out mid-apology to the user I had already apologised to twice.
+C24|Monday handed me a bug from Friday, a meeting about the bug, and a follow-up meeting about the meeting.
